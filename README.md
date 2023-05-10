@@ -4,7 +4,6 @@ This repository contains my Jupyter Notebook working on creating a <a href="http
 
 The final model created boasts around a .24~ RMSLE, which at the time of the competition would've placed this model somewhere in the **top 30 out of 477 candidates.**
 
-For more details on information such as features taken into consideration, as well as the contained graphs and analysis, please view the jupyter notebook. The environment has also been prepackaged in a YML file for easy setup,
-and the model is contained in a joblib file.
+For more details on information such as features taken into consideration, as well as the contained graphs and analysis, please view the jupyter notebook. The environment has also been prepackaged in a YML file for easy setup. Unfortunately, due to size constraints, I am unable to upload a PKL or joblib file of the model itself.
 
 Thanks for taking interest in my second ever model and my learning process!
